@@ -1,0 +1,5 @@
+ACTUALIZAR CHROME DRIVER
+https://sites.google.com/a/chromium.org/chromedriver/
+
+ACTIVAR USO DE CORREO EN APLICACIONES INSEGURAS
+https://www.google.com/settings/security/lesssecureapps
